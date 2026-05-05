@@ -1,0 +1,7 @@
+env/
+__pycache__/
+*.pyc
+.env
+.streamlit/secrets.toml
+log2.txt
+output.log

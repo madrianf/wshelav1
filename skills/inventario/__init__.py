@@ -1,0 +1,1 @@
+# Inicialización para inventario
